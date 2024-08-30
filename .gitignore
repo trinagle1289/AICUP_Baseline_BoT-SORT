@@ -1,3 +1,5 @@
+datasets/
+
 # Bot-sort
 /pretrained/*
 /YOLOX_outputs/
